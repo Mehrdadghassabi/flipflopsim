@@ -1,0 +1,8 @@
+C:\Users\Dour-Andish\Documents\SharpDevelop Projects\FliflopSimulator\FliflopSimulator\bin\Debug\FliflopSimulator.exe.config
+C:\Users\Dour-Andish\Documents\SharpDevelop Projects\FliflopSimulator\FliflopSimulator\bin\Debug\FliflopSimulator.exe
+C:\Users\Dour-Andish\Documents\SharpDevelop Projects\FliflopSimulator\FliflopSimulator\bin\Debug\FliflopSimulator.pdb
+C:\Users\Dour-Andish\Documents\SharpDevelop Projects\FliflopSimulator\FliflopSimulator\obj\Debug\FliflopSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Dour-Andish\Documents\SharpDevelop Projects\FliflopSimulator\FliflopSimulator\obj\Debug\FliflopSimulator.MainForm.resources
+C:\Users\Dour-Andish\Documents\SharpDevelop Projects\FliflopSimulator\FliflopSimulator\obj\Debug\FliflopSimulator.csproj.GenerateResource.Cache
+C:\Users\Dour-Andish\Documents\SharpDevelop Projects\FliflopSimulator\FliflopSimulator\obj\Debug\FliflopSimulator.exe
+C:\Users\Dour-Andish\Documents\SharpDevelop Projects\FliflopSimulator\FliflopSimulator\obj\Debug\FliflopSimulator.pdb
